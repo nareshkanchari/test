@@ -1,0 +1,8 @@
+ git clone https://github.com/nareshkanchari/curdapp.git
+
+after this goto databases
+
+mysql-->pwd:root@gmail.com
+
+Database host address:nareshdjango.mysql.pythonanywhere-services.com
+Username:nareshdjango
